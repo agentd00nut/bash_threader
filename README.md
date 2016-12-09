@@ -49,4 +49,4 @@ No, absolutely not.  We will blindly run ANYTHING passed to `-s` by setting it t
 # Does this handle functions with spaces
 
 Almost surely not.  I don't use eval because idk, i didn't, so just fork it and do it yourself?
-Also consider stop putting spaces in your paths and script names because they tend to fuck shit up. <3
+Also consider stop putting spaces in your paths and script names because they tend to fuck shit up. <3 
